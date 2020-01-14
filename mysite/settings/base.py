@@ -22,9 +22,9 @@ INSTALLED_APPS = [
 
     'modelcluster',
     'taggit',
+    'django_extensions',
     'wagtailmetadata',
     'wagtailmarkdown',
-    'wagtail_events',
 
     'django.contrib.admin',
     'django.contrib.auth',
