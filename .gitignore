@@ -259,4 +259,7 @@ fabric.properties
 
 # More wagtail
 static
+static/*
 media
+media/*
+db.sqlite3
